@@ -1,16 +1,37 @@
-# flutter_richtext_app
+# Flutter Slider Widget
 
-A new Flutter application.
+Flutter Tutorial - Flutter Slider Widget
+Flutter Tutorial - Flutter Slider Widget Video series can be watched here https://youtu.be/n3__i6oMrtI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+We will see how to use Slider Widgets in your Flutter application.
+ 
+I have also included 3 demo use cases in the video.
 
-A few resources to get you started if this is your first Flutter project:
+For more details about Align Widget please watch my Flutter Tutorial - Flutter Align Widget here https://www.youtube.com/watch?v=UJtF1S_peek
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Slider-Widget/blob/master/assets/slider_money_gif.gif" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Slider-Widget/blob/master/assets/slider_smiley_gif.gif" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Slider-Widget/blob/master/assets/slider_star_gif.gif" width="200"/>
+            </td>       
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
